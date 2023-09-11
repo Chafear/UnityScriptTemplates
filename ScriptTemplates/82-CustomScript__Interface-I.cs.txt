@@ -1,0 +1,9 @@
+#ROOTNAMESPACEBEGIN#
+namespace YOUR_NAME
+{
+	public interface #SCRIPTNAME#
+	{
+		#NOTRIM#
+	}
+}
+#ROOTNAMESPACEEND#
